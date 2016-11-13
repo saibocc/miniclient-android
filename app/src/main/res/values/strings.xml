@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">侠客传奇</string>
+    <string name="title_activity_full_screen">侠客传奇</string>
+    <string name="game_url">http://gameurl</string>
+    <string name="res_url">assets/textures/ui</string>
+    <string name="quick_product_code"></string>
+    <string name="quick_product_key"></string>
+</resources>
