@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">侠客传奇</string>
-    <string name="title_activity_full_screen">侠客传奇</string>
-    <string name="game_url">http://gameurl</string>
+    <string name="app_name">盛世霸业</string>
+    <string name="title_activity_full_screen">盛世霸业</string>
+    <string name="game_url">http://interface.fc65.cn/api/ml/login.php</string>
     <string name="res_url">assets/textures/ui</string>
-    <string name="quick_product_code"></string>
-    <string name="quick_product_key"></string>
+    <string name="quick_product_code">46656166241180273352632831651306</string>
+    <string name="quick_product_key">06168831</string>
 </resources>
